@@ -1,3 +1,4 @@
+package java_study;
 public class Cat{
     private String name;
 

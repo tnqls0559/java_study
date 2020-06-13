@@ -1,3 +1,4 @@
+package java_study;
 public class Dog{
    private String name;
 
